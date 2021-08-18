@@ -348,7 +348,7 @@ F 5 "80-C0603C333J3RAUTO" H 5100 5550 50  0001 C CNN "Supplier Stock Code"
 	0    1    1    0   
 $EndComp
 $Comp
-L Connector_Generic:Conn_02x05_Top_Bottom J5
+L Connector_Generic:Conn_02x05_Odd_Even J5
 U 1 1 611C6950
 P 4450 6400
 F 0 "J5" H 4500 6817 50  0000 C CNN
@@ -436,7 +436,7 @@ Wire Wire Line
 Wire Wire Line
 	7200 4050 7200 6400
 $Comp
-L Connector_Generic:Conn_02x02_Top_Bottom J4
+L Connector_Generic:Conn_02x02_Odd_Even J4
 U 1 1 611F47B2
 P 3100 4600
 F 0 "J4" H 3150 4817 50  0000 C CNN
